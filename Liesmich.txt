@@ -1,0 +1,19 @@
+Hallo,
+auf manchen Systemen Fehlen die beigefügten Dll's.
+Fals eine entsprechende Fehlermeldung  beim Start des Programms
+erscheint sind die beiden Dll-Dateien in den /Windows/system/
+oder bei NT und 2000 in den /WINNT/system/ Ordner zu kopieren.
+Vergesst bitte nicht für das Oszillosko und das Stereoskop den
+Aufnahmemixer richtig einzustellen.
+
+Bitte meldet mir jeden Fehler den Ihr noch im Programm Findet !!!
+Auf meiner Homepage findet ihr auch eine Linux-Version und ein 
+Word-Dokument zur Wavelettheorie.
+
+Ach übrigens, das Programm ist Freeware,
+ihr könnt es also problemlos Weiterkopieren. ;-)
+
+mfg Christoph Lauer
+
+	www.christoph-lauer.de
+	christoph_lauer@gmx.de
